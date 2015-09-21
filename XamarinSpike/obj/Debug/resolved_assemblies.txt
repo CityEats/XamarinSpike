@@ -1,0 +1,6 @@
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\assemblies\XamarinSpike.dll
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\assemblies\mscorlib.dll
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\assemblies\System.Core.dll
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\assemblies\System.dll
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\assemblies\System.Xml.dll

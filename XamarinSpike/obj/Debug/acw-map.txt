@@ -1,0 +1,4 @@
+XamarinSpike.MainActivity, XamarinSpike;md545a1d450788c7e3edae103fd6744c6ff.MainActivity
+XamarinSpike.MainActivity, XamarinSpike, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md545a1d450788c7e3edae103fd6744c6ff.MainActivity
+XamarinSpike.MainActivity;md545a1d450788c7e3edae103fd6744c6ff.MainActivity
+xamarinspike.MainActivity;md545a1d450788c7e3edae103fd6744c6ff.MainActivity

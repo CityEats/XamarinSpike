@@ -1,0 +1,16 @@
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\bin\Debug\XamarinSpike.dll
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\bin\Debug\XamarinSpike.pdb
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\bin\Debug\com.companyname.xamarinspike.apk
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\bin\Debug\com.companyname.xamarinspike-Signed.apk
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\XamarinSpike.dll
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\XamarinSpike.pdb
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\android\bin\com.companyname.xamarinspike.apk
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\res\layout\main.xml
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\res\values\strings.xml
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\R.cs.flag
+C:\Users\James\Documents\Projects\XamarinSpike\XamarinSpike\obj\Debug\uploadflags.txt
